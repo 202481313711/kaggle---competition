@@ -1,4 +1,4 @@
-aggle---competition
+kaggle---competition
 项目简介：
 本项目为Kaggle二分类竞赛，基于F1赛事数据预测赛车下一圈是否进站。使用LightGBM、XGBoost、CatBoost三模型加权融合，完成数据清洗与时序特征工程。
 测试集AUC：0.944
