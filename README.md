@@ -18,4 +18,4 @@ pip install numpy pandas lightgbm xgboost catboost scikit-learn
 
 仓库地址
 GitHub：https://github.com/202481313711/kaggle-f1-pitstop-competition
-Gitee镜像：https://gitee.com/202481313711/kaggle-f1-pitstop-competition
+
